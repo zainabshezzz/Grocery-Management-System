@@ -1,0 +1,9 @@
+Receipt no :6
+-----------------
+Item		Name		Price		Quantity		TotalPrice
+-----------------
+1		Bread		2.0		2		4.0		
+-----------------
+Discount: 0.0%
+Total: 4.0
+After Discount: 4.0
